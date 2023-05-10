@@ -33,9 +33,9 @@ This is an application that allows users to create and manipulate shapes on a dr
 
 ## Contributors
  -[Afnan Elhusseiny](https://github.com/AfnanElhussini)
-- [Ahmed Turkey](https://github.com/AhmedTurky75)
-- [Sohaila Elhakim]((https://github.com/sohailaalhakim)
-- [Zeinab Hesham](https://github.com/ZienabHesham)
+ -[Ahmed Turkey](https://github.com/AhmedTurky75)
+ -[Sohaila Elhakim](https://github.com/sohailaalhakim)
+ -[Zeinab Hesham](https://github.com/ZienabHesham)
 
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
