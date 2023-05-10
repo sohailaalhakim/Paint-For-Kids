@@ -52,6 +52,5 @@ Please ensure that your code follows the project's coding style and conventions.
 
 This project is licensed under the [MIT License](LICENSE).
 
-.
 
 
