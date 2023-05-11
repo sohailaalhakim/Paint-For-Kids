@@ -25,12 +25,6 @@ This is an application that allows users to create and manipulate shapes on a dr
 - To save the current drawing, click the "Save" button. The drawing will be saved to a file.
 - To load a previously saved drawing, click the "Load" button and select the file.
 
-6. **Events:**
-- The application provides an event system that allows you to listen to and extend any desired events. Refer to the event documentation for more details.
-
-7. **Multithreading:**
-- The application utilizes multithreading techniques to ensure a responsive user interface. The UI will not get blocked during shape manipulation or resource-intensive operations.
-
 ## Contributors
  - [Afnan Elhusseiny](https://github.com/AfnanElhussini)
  - [Ahmed Turkey](https://github.com/AhmedTurky75)
